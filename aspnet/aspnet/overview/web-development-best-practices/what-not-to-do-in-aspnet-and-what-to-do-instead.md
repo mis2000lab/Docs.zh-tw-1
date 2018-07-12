@@ -1,6 +1,6 @@
 ---
 uid: aspnet/overview/web-development-best-practices/what-not-to-do-in-aspnet-and-what-to-do-instead
-title: 不執行在 ASP.NET 中，以及該做什麼 |Microsoft Docs
+title: 該在 ASP.NET 中做什麼，以及不該做什麼 |Microsoft Docs
 author: tfitzmac
 description: 本主題會描述人員進行 ASP.NET web 專案中的數個常見的錯誤。 它提供您該如何避免這些通用的建議...
 ms.author: aspnetcontent
@@ -15,7 +15,7 @@ ms.contentlocale: zh-TW
 ms.lasthandoff: 07/05/2018
 ms.locfileid: "37806014"
 ---
-<a name="what-not-to-do-in-aspnet-and-what-to-do-instead"></a>不執行在 ASP.NET 中，以及該做什麼
+<a name="what-not-to-do-in-aspnet-and-what-to-do-instead"></a>該在 ASP.NET 中做什麼，以及不該做什麼
 ====================
 藉由[Tom FitzMacken](https://github.com/tfitzmac)
 
